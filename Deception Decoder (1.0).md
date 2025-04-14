@@ -1,4 +1,5 @@
-#### A User-Focused Framework for Detecting AI-Generated Content Online
+# Deception Decoder
+### A User-Focused Framework for Detecting AI-Generated Content Online
 
 ---
 ## 📣 Why This Matters: Real-World Risks & How to Use This Framework
@@ -47,7 +48,7 @@ This framework is designed for both **technical and non-technical users**. While
 ---
 ### 📊 Usage Flowchart
 
-![[DD-Flowchart.png]]
+![Usage Flowchart](./DD-Flowchart.png)
 _A flowchart guiding users through the usage of the Deception Decoder framework._
 
 #### 🔁 How to Use the Flowchart
@@ -150,7 +151,7 @@ When viewing a post on social media, consider watching out for the following red
 - **Ask an Expert**  
   Is your Dad a mechanic? Brother in the army? Cousin an architect? Get them to check over and verify specialist items like cars, weapons, and structural designs! Same goes for languages too – If you encounter signs in ‘French’, that doesn’t quite look... well... ‘French’ – it’s always worth a closer look, or second opinion. Fails any one of these tests? Then: 🚩!
 
-![[DD-Expert.png]]
+![Quick Checks](./DD-Expert.png)
 
 ---
 ##### 🧲 Physics and Realism  
@@ -164,9 +165,9 @@ When viewing a post on social media, consider watching out for the following red
 
 - **Bad Lighting, Shadows, or Reflections**  
   Lighting with no plausible source, shadows which do not match the shape of an object, or suspect reflections on mirrored surfaces.
-
-![[DD-Physics.png]]
-![[DD-Geometric.png]]
+  
+![Physics Artifacts](./DD-Physics.png)
+![Geometric Artifacts](./DD-Geometric.png)
 
 ---
 ##### 👀 Humans, Bodies, and Appearance  
@@ -181,7 +182,7 @@ When viewing a post on social media, consider watching out for the following red
 - **Background Characters**  
   Pay close attention to figures in the background. Do they look less than human, appear conjoined, unnatural, or suffer from distortions?
 
-![[DD-Human.png]]
+![Human Artifacts](./DD-Human.png)
 
 ---
 ##### 🛣️ Text, Logos, and Brands  
@@ -193,7 +194,7 @@ When viewing a post on social media, consider watching out for the following red
 - **Background Details**  
   Pay attention to things like signage in shop windows, license plates on vehicles, or name badges on uniforms.
 
-![[DD-Text.png]]
+![Text Artifacts](./DD-Text.png)
 
 ---
 ##### 👀 Context vs. Reality  
@@ -208,7 +209,7 @@ When viewing a post on social media, consider watching out for the following red
 - **Uncanny Valley**  
   Scenes that *feel* wrong even if you can’t explain why—they may not fit any of the other categories, but they still raise red flags.
 
-![[DD-Skateboard.png]]
+![Context](./DD-Skateboard.png)
 
 ---
 ##### 🎥 Movement Issues (*Video Specific*)  
@@ -220,8 +221,7 @@ When viewing a post on social media, consider watching out for the following red
 - **Sudden Changes – Breaking Continuity**  
   Watch for objects or persons that vanish mid-scene, or merge bizarrely with another entity.
 
-![[DD-VidCont.png]]
-
+![Video Artifacts](./DD-VidCont.png)
 ---
 ## Node 3: Motive
 
