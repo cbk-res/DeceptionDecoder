@@ -1,5 +1,7 @@
 ## 📘 Deception Decoder: A Human-Centred Framework for Detecting AI-Generated Mis/Disinformation
 
+[![arXiv](https://img.shields.io/badge/arXiv-2511.05555-b31b1b.svg)](https://arxiv.org/abs/2511.05555)
+
 **Deception Decoder** is a human-focused, multimodal framework designed to help users identify AI-generated misinformation and disinformation across text, images, and video—particularly on social media platforms. Unlike most existing solutions, which rely heavily on automated or machine learning–based detection, this framework empowers individuals through critical engagement and visual literacy, offering a structured method for spotting 'red flags' in AI-generated content.
 
 Developed as part of an honours dissertation at Queen Margaret University, this framework was informed by a comparative analysis of existing detection models, a content analysis of state-of-the-art AI-generated video samples, as well as participatory focus group study. The result is a systematic and adaptable tool—composed of three interconnected layers:
